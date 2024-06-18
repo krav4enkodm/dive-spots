@@ -6,22 +6,22 @@ const gardenGorgoniasMarker = {
     lat: 38.4347,
     lng: -9.0641,
   },
-  images: ["/img/preview/pexels-eliannedipp-4696771.webp"],
+  images: ["./img/preview/pexels-eliannedipp-4696771.webp"],
 };
 const batelaoMarker = {
   title: "Batelão",
   position: { lat: 38.4341, lng: -9.1151 },
-  images: ["/img/preview/pexels-pawelkalisinski-1076758.webp"],
+  images: ["./img/preview/pexels-pawelkalisinski-1076758.webp"],
 };
 const baleeiraMarker = {
   title: "Baleeira",
   position: { lat: 38.4164, lng: -9.1903 },
-  images: ["/img/preview/pexels-richard-segal-732340-1618606.webp"],
+  images: ["./img/preview/pexels-richard-segal-732340-1618606.webp"],
 };
 const baiaDaArmacaoMarker = {
   title: "Baía da Armação",
   position: { lat: 38.4396, lng: -9.0605 },
-  images: ["/img/preview/pexels-tomfisk-1125979.webp"],
+  images: ["./img/preview/pexels-tomfisk-1125979.webp"],
 };
 
 const markerList = [
